@@ -4,17 +4,10 @@ I'm a software engineering second year student right now and a self taught progr
  - 🔨 I'm currently working on building a GRAPH application for network graph visualization.
  - 🌱 I’m currently learning git and C++.
  - 💡 Passionate about elegant code and exploring the world of microcontrollers.
- - 🎨 My hobbies: woodcarving and ship model building. 
-
-
-
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GreenHatCode&theme=solarized_dark)
-<!--
+ - 🎨 My hobbies: woodcarving and ship model building.
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GreenHatCode&theme=solarized_dark)
-
+<!--
 **GreenHatCode/GreenHatCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
