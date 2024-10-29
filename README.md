@@ -7,6 +7,8 @@ I'm a software engineering second year student right now and a self taught progr
  - 🎨 My hobbies: woodcarving and ship model building.
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GreenHatCode&theme=solarized_dark)
+
+![](https://www.codewars.com/users/GreenHatCode%20/badges/large)
 <!--
 **GreenHatCode/GreenHatCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
