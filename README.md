@@ -1,6 +1,6 @@
 # Hi <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> My name is Alex
 ## Second year student and Programmer
-I'm a software engineering second year student right now and a self taught programmer. I have created a few projects using C++, C and other languages. 
+I'm a software engineering third year student right now and a self taught programmer. I have created a few projects using C++, C, Python and other languages. 
  - 🔨 I'm currently working on building a GRAPH application for network graph visualization.
  - 🌱 I’m currently learning CMake and C.
  - 💡 Passionate about elegant code and exploring the world of microcontrollers.
